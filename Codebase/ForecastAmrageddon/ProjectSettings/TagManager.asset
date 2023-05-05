@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Card1
+  - Card2
+  - Card3
+  - Card4
+  - Card5
+  - UI
+  - ClickedCard
+  - Base
+  - TrashCan
+  - PlayerInterface
+  - PauseMenu
+  - LoserScreen
+  - WinnerScreen
+  - BaseHealthBar
+  - Camera
+  - TowerSpot
+  - UsedSpot
+  - Bullet
+  - Enemy
+  - Spawner
+  - KillEnemy
+  - Tower
+  - basic_enemy_bullet
+  - MainMenu
+  - TowerHitBox
+  - EnemyHitBox
+  - Terrain
+  - Pause
+  - TowerOnTerrain
+  - Boss Transport
+  - LightningStrikeZone
+  - AmbushSpawn
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Tower
+  - Tower Bullet
+  - Enemy
+  - Enemy Bullet
+  - Tower Trigger
+  - Enemy Trigger
+  - Base
+  - Generator
+  - LightningZone
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,95 @@
+fileFormatVersion: 2
+guid: 2c025a001b1a3eb4788d6d75f0488e36
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - newTowerCard: {instanceID: 0}
+  - basicTowerPrefab: {instanceID: 0}
+  - sniperTowerPrefab: {instanceID: 0}
+  - machineGunTowerPrefab: {instanceID: 0}
+  - basicTowerBulletPrefab: {instanceID: 0}
+  - basicEnemyPrefab: {instanceID: 0}
+  - fastEnemyPrefab: {instanceID: 0}
+  - tankEnemyPrefab: {instanceID: 0}
+  - tutorialEnemyPrefab: {instanceID: 0}
+  - basicEnemyBulletPrefab: {instanceID: 0}
+  - enemyAcidBulletPrefab: {instanceID: 0}
+  - scoreCount: {instanceID: 0}
+  - mainCamera: {instanceID: 0}
+  - baseObj: {instanceID: 0}
+  - baseHealthBar: {instanceID: 0}
+  - baseHealthText: {instanceID: 0}
+  - roundCountText: {instanceID: 0}
+  - enemySpawner: {instanceID: 0}
+  - trashCan: {instanceID: 0}
+  - trashText: {instanceID: 0}
+  - trashButton: {instanceID: 0}
+  - trashLockedButton: {instanceID: 0}
+  - cardOne: {instanceID: 0}
+  - slotOneCard: {instanceID: 0}
+  - cardBlock1: {instanceID: 0}
+  - cardTwo: {instanceID: 0}
+  - slotTwoCard: {instanceID: 0}
+  - cardBlock2: {instanceID: 0}
+  - cardThree: {instanceID: 0}
+  - slotThreeCard: {instanceID: 0}
+  - cardBlock3: {instanceID: 0}
+  - cardFour: {instanceID: 0}
+  - slotFourCard: {instanceID: 0}
+  - cardBlock4: {instanceID: 0}
+  - cardFive: {instanceID: 0}
+  - slotFiveCard: {instanceID: 0}
+  - cardBlock5: {instanceID: 0}
+  - slotSixCard: {instanceID: 0}
+  - cardRef: {instanceID: 0}
+  - mPopUpTitle: {instanceID: 0}
+  - mPopUpDesc: {instanceID: 0}
+  - mPopUpHPBar: {instanceID: 0}
+  - mPopUpDamageBar: {instanceID: 0}
+  - mPopUpAttackRateBar: {instanceID: 0}
+  - UI: {instanceID: 0}
+  - playerInterface: {instanceID: 0}
+  - pauseMenu: {instanceID: 0}
+  - loserPopup: {instanceID: 0}
+  - winnerPopup: {instanceID: 0}
+  - cardPopup: {instanceID: 0}
+  - spotGlow: {instanceID: 0}
+  - spotDefault: {instanceID: 0}
+  - interfaceFirstButton: {instanceID: 0}
+  - pauseFirstButton: {instanceID: 0}
+  - pauseCloseButton: {instanceID: 0}
+  - loseFirstButton: {instanceID: 0}
+  - loseCloseButton: {instanceID: 0}
+  - winnerFirstButton: {instanceID: 0}
+  - winnerCloseButton: {instanceID: 0}
+  - cardConveyor: {instanceID: 0}
+  - mapBlock2: {instanceID: 0}
+  - mapBlock3: {instanceID: 0}
+  - clickedOnTowerRef: {instanceID: 0}
+  - towerPopUp: {instanceID: 0}
+  - towerPopUpTitle: {instanceID: 0}
+  - towerPopUpHPBar: {instanceID: 0}
+  - towerPopUpDamageBar: {instanceID: 0}
+  - towerPopUpAttackRateBar: {instanceID: 0}
+  - mHoverAnimation: {instanceID: 0}
+  - mConveyor1Moving: {instanceID: 0}
+  - mConveyor2Moving: {instanceID: 0}
+  - mConveyor3Moving: {instanceID: 0}
+  - mConveyor4Moving: {instanceID: 0}
+  - mConveyor5Moving: {instanceID: 0}
+  - mSlotOneStart: {instanceID: 0}
+  - mSlotTwoStart: {instanceID: 0}
+  - mSlotThreeStart: {instanceID: 0}
+  - mSlotFourStart: {instanceID: 0}
+  - mSlotFiveStart: {instanceID: 0}
+  - _NewTo5: {instanceID: 0}
+  - _5to4: {instanceID: 0}
+  - _4to3: {instanceID: 0}
+  - _3to2: {instanceID: 0}
+  - _2to1: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
